@@ -10,4 +10,7 @@ public class TestController {
     public String test() {
         return "1234";
     }
+    public String testA() {
+        return "4567";
+    }
 }
