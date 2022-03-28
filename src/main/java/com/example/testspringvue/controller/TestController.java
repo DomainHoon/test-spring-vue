@@ -13,4 +13,7 @@ public class TestController {
     public String testA() {
         return "4567";
     }
+    public String testB(){
+        return "891011";
+    }
 }
